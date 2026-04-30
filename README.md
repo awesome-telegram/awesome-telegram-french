@@ -20,3 +20,4 @@ Une liste curated des meilleurs canaux, groupes et bots Telegram en français.
 
 ## Bots Telegram
 
+- [Cyber Collector](https://t.me/cybercollectorbot) — Bot Telegram gratuit pour télécharger des vidéos TikTok (sans filigrane), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook. Sans inscription, sans publicités. [Site web](https://cybercollector.hitkey.io)
