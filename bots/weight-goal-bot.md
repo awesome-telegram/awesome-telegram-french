@@ -1,12 +1,12 @@
 # Weight Goal Bot
 
-Bot de groupe open source pour suivre des objectifs de perte de poids. Il est disponible en anglais, russe et chinois.
+Bot de groupe open source qui vous accompagne pas à pas vers votre objectif de poids. Il s'exprime naturellement en français et prend en charge neuf langues.
 
 ## Informations
 
 - **Nom :** Weight Goal Bot
 - **Type :** Bot
-- **Langues :** Anglais, russe et chinois
+- **Langues :** Français, anglais, russe, chinois, espagnol, portugais, allemand, japonais et indonésien
 - **Telegram :** https://t.me/my_weight_goal_bot
 - **Code source :** https://github.com/IgorShadurin/weight-telegram-bot
 - **Licence :** Apache-2.0
